@@ -1,0 +1,41 @@
+﻿/*** Bootstrap overrides ***/
+.container {
+    border:1px solid #cecece;
+    margin-top: 1em;
+}
+
+.jumbotron {
+    background: url("../Images/banner.jpg");
+    background-size: 100% 100%;
+    margin-top: 1em;
+}
+
+label {
+    font-weight: normal;
+}
+
+/* Styles needed for Category Maintenance GridView */
+.table a {
+    color: #8c8c8c;
+}
+
+.bg-halloween {
+    background-color: #8c8c8c;
+    color: white;
+    font-weight: bold;
+}
+
+.altRow {
+    background-color: #f9f9f9;
+}
+
+.col-edit { 
+    padding-left: 0;
+    padding-right: 5px;
+}
+
+/* Server control styles */
+#btnAdd {
+    margin-bottom: 1em;
+}
+
